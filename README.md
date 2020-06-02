@@ -1,4 +1,4 @@
-# basicdiceapp
+# Basic Dice App
 
 A new Flutter application.
 
